@@ -9,6 +9,7 @@
     <modules>
         <module>lesson1</module>
     <module>lesson2</module>
+    <module>redis-demo</module>
   </modules>
 
 
