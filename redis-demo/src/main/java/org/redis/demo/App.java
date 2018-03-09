@@ -13,7 +13,6 @@ public class App
         //System.out.println( "Hello World!" );
         Jedis jedis = new Jedis("47.95.3.38");
         System.out.println("连接成功");
-        jedis.auth("redis");
         //查看服务是否运行
         System.out.println("服务正在运行: "+jedis.ping());
 //        jedis.set("hostName", "ubuntuAliyun");
