@@ -12,6 +12,10 @@
 		<module>redis-demo</module>
 		<module>lesson3-logback</module>
     <module>spring-boot1</module>
+    <module>module1</module>
+    <module>module2</module>
+    <module>jdbcdemo</module>
+    <module>activitidemo</module>
   </modules>
 
 
